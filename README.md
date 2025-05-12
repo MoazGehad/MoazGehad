@@ -1,31 +1,52 @@
-Hi there, I'm Moaz Gehad! 👋
+## 👋 Hi, I’m Moaz Gehad
 
-I'm a 20-year-old student currently studying at the Faculty of Computers and Artificial Intelligence at Cairo University. With a strong foundation in various fields of computer science and a passion for problem-solving and mathematics, I'm excited to share my journey and projects with you.
+I’m an AI-specialized student at the **Faculty of Computers and Artificial Intelligence, Cairo University**, passionate about real-world applications of **Data Science** and **Machine Learning**.
 
-📚 ***Education***
-- **High School**: Graduated with a score of 97.5%, ranked among the top five students in Giza Governorate.
-- **University**: Currently pursuing a degree at the Faculty of Computers and Artificial Intelligence, Cairo University, with a cumulative GPA of 3.6 before completing level 2 final exams.
+With a strong foundation in programming, statistics, and problem-solving, I enjoy building impactful projects in AI, data analysis, and automation.
 
-💡 ***Skills and Technologies***
-- **Programming Languages**: C++, Java, Python
-- **Web Development**: HTML, CSS, JavaScript, Django
-- **Databases**: SQL
-- **Software Engineering**: OOP, Data Structures, Database Systems, Web Development
+---
 
- 🛠 ***Projects***
-- **Library Management System**: Developed using SQL for the database and C# Windows Forms application for the GUI. Features include user management, book management, browsing, and borrowing books.
-- **Book Store Website**: Created a website using HTML, CSS, and JavaScript, with a backend implemented in the Django framework.
+### 📊 Current Focus
 
- 💼 ***Employment Experience***
-- **Technical Support Agent**: Worked at Intelcia for the client "Optimum", providing technical support.
-- **Math Teacher Assistant**: Assisted in teaching mathematics at Math Team.
+* **AI & Machine Learning**: Hands-on projects including **speech recognition**, **CNN image classification**, and predictive modeling.
+* **Data Science**: EDA, preprocessing, visualization, and dashboarding using Python, SQL, Excel, and Power BI.
 
- 🎯 ***Interests and Passions***
-- **Mathematics**: I have a strong passion for mathematics and am looking forward to pursuing a career in the AI track.
-- **Team Sports**: I enjoy participating in team sports.
+---
 
- 📫 ***Contact Information***
-- **Email**: [moza11534@gmail.com](mailto:moza11534@gmail.com)
-- **LinkedIn**: [Moaz Gehad](https://www.linkedin.com/in/moaz-gehad-424536251)
+### 🛠️ Skills & Tools
 
-Feel free to reach out to me for any collaboration or just to say hi!
+* **Languages**: Python, SQL, C++
+* **AI/ML**: Scikit-learn, TensorFlow, Keras, CNNs
+* **Data Science**: Pandas, NumPy, Seaborn, Plotly, Excel, Power BI
+* **Web**: HTML, CSS, JavaScript, Django
+
+---
+
+### 🧪 Notable Projects
+
+* **World University Rankings Dashboard**
+  Full data pipeline using Python, Excel, SQL, and Power BI — includes data cleaning, analysis, and storytelling dashboards.
+
+* **Speech Command Classifier**
+  Built a binary classifier for audio clips.
+
+* **Library Management System**
+  Website with a Django backend for library navigation.
+  C# and SQL-based Windows Forms application for managing users and books.
+---
+
+### 💼 Experience
+
+* **Technical Support Agent**, Intelcia (client: Optimum)
+* **Math Teacher Assistant**, Math Team
+* **AI Trainer**, Data Annotation
+
+---
+
+### 📫 Contact Me
+
+* **Email**: [moazgehad1@gmail.com](mailto:moazgehad1@gmail.com)
+* **LinkedIn**: [linkedin.com/in/moaz-gehad](https://www.linkedin.com/in/moaz-gehad)
+* **Kaggle**: [Moaz Gehad](https://www.kaggle.com/moazgehad)
+
+
